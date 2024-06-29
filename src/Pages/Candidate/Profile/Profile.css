@@ -1,0 +1,7 @@
+.input-file input[type="file" i]::-webkit-file-upload-button {
+    display: none;
+    /* width: 20;
+    height: 20;
+    border: '2px solid none';
+    background-color: '#2B6687'; */
+}
